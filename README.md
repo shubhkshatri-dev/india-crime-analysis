@@ -17,7 +17,7 @@ Understanding the interaction between economic growth, urbanization, literacy, a
 
 | Tool | Focus Area | Key Techniques & Libraries Used |
 | :--- | :--- | :--- |
-| **MySQL / ANSI SQL** | Data Querying & Analytics | `CTE`, Window Functions (`LAG`, `NTILE`, `DENSE_RANK`), Multi-table `JOIN`, Aggregations |
+| **MySQL** | Data Querying & Analytics | `CTE`, Multi-table `JOIN`, Aggregations |
 | **Python** | Data Cleaning & EDA | `pandas`, `numpy`, `matplotlib`, `seaborn`, `scipy.stats` (Pearson correlation) |
 | **Power BI** | Business Intelligence | Star-schema modeling, DAX measures, Interactive slicers, KPI dashboards |
 
@@ -31,11 +31,9 @@ Understanding the interaction between economic growth, urbanization, literacy, a
 │   └── socioeconomic_data.csv     # Baseline state socioeconomic indicators
 ├── sql/
 │   ├── schema.sql                 # Table creation and data load scripts
-│   └── exploratory_queries.sql    # Analytical SQL queries (CTEs, Window Functions)
+│   └── crime data query.sql    # Analytical SQL queries (CTEs, Window Functions)
 ├── python/
-│   └── crime_socio_analysis.py    # Python analysis script & visualization generator
+│   └── crime_data_analysis.py    # Python analysis script & visualization generator
 ├── powerbi/
-│   └── crime_dashboard.pbix       # Interactive Power BI Dashboard
-├── images/
-│   └── crime_socioeconomic_analysis.png  # Consolidated 4-panel analysis plot
+│   └── crime_data_analysis.pbix       # Interactive Power BI Dashboard
 └── README.md                      # Project documentation
