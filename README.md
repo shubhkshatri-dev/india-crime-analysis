@@ -38,7 +38,7 @@ Understanding the interaction between economic growth, urbanization, literacy, a
 │   └── crime_data_analysis.pbix       # Interactive Power BI Dashboard
 └── README.md                      # Project documentation
 ```
-##🔍 Key Findings & Insights
+## 🔍 Key Findings & Insights
 Top Crime Centers: Uttar Pradesh, Maharashtra, West Bengal, and Bihar record the highest cumulative crime volume over the 10-year period (2015–2024).
 
 The Digital Shift: Digital offenses (Cybercrime + Fraud) have experienced steep growth since 2015, converging toward total violent crime counts on a national level.
