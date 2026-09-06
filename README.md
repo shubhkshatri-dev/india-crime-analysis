@@ -1,6 +1,6 @@
 # 📊 Indian Regional Crime & Socioeconomic Analysis (2015–2024)
 
-A Multi-Tool Data Analytics Portfolio Project** analyzing 10-year crime trends and structural socioeconomic drivers across 36 Indian states and union territories using **MySQL**, **Python (Pandas, Seaborn)**, and **Power BI**.
+**A Multi-Tool Data Analytics Portfolio Project** analyzing 10-year crime trends and structural socioeconomic drivers across 36 Indian states and union territories using **MySQL**, **Python (Pandas, Seaborn)**, and **Power BI**.
 
 ---
 
